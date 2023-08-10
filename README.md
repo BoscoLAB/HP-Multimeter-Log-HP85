@@ -3,7 +3,7 @@ HP 3478A Multimeter and other Log long-therm measurements for HP85 series.
 
 The software is programmed in HP BASIC on a HP85 / HP85B with EBTKS card. The program used the DATETIME function of the EBTKS card to display date and measurement time. For the development, an EBTKS card is needed for the time being, e.g. for the real-time clock and other functions. This enables the simple storage of the measurement data. Information about the EBTKS card is available here: http://www.fliptronics.com/EBTKS/EBTKS.html
 
-The software is under development and more features will be added. The current developer version is available here: DEV3478A.BAS
+The software is under development and more features will be added. The current developer version is available here: [DEV3478A.BAS](https://github.com/BoscoLAB/HP-Multimeter-Log-HP85/blob/main/DEV3478A.BAS)
 
 The following devices are supported:
 - HP 3455A
