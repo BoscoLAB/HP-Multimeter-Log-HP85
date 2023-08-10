@@ -18,7 +18,14 @@ The following functions will come soon:
 - Selection of an external printer.
 - Saving the measured values on a drive.
 - Print a graphic plot after the measurement.
-- Selection of a second device for dual measurement of e.g. volts and amps.
+- Selection of a second HP device for dual measurement of e.g. volts and amps.
 
 
 How it works:
+After starting the program, the HP-IB address of the HP multimeter is queried. The input is made with code 7 and address, e.g. 703 (address 03). Then the number of measuring points must be entered and the time between the measurements in milliseconds. All entries are sent to the printer. 
+The current date is displayed and printed. 
+Now the measurement starts with the specified number and waiting time. After completion of the measurement series, a summary is displayed and printed. The measurement is finished.
+
+
+For improvement suggestions please mail to input@boscolab.de 
+Thanks
