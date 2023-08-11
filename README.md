@@ -5,7 +5,7 @@ The software is programmed in HP BASIC on a HP85 / HP85B with EBTKS card. The pr
 
 The software is under development and more features will be added. 
 
-The latest version is available here: 
+The latest version is available here: https://github.com/BoscoLAB/HP-Multimeter-Log-HP85/releases
 
 Change log:
 - Version 0.2 Added Display and Print of the maximum, minimum and average measured values.
